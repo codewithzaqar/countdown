@@ -1,0 +1,9 @@
+[project]
+name = "countdown"
+version = "0.1.0"
+description = "A count down app in Terminal."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "textual>=3.2.0",
+]
